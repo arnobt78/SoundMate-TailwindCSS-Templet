@@ -1,7 +1,10 @@
 
+![TailwindCSS-SoundMate-WebPage](https://github.com/user-attachments/assets/d4e0bba5-cf10-42f1-a795-cb70aab7c509)
+
 ## TailwindCSS-SoundMate-WebPage
 
 TailwindCSS-SoundMate-WebPage is a demo single webpage with Header Logo, Navbar, Main Section with Info, Button, Cards, and Footer where using only TailwindCSS, Tailwind class extension JS and HTML.
+
 
 ## How to run this project
 
