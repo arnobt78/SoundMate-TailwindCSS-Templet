@@ -3,7 +3,7 @@
 
 ## TailwindCSS-SoundMate-WebPage
 
-TailwindCSS-SoundMate-WebPage is a demo single webpage with header logo, navbar, body with info, button, cards, footer and responsive screen for any device where using only TailwindCSS, Tailwind class extension JS and HTML.
+TailwindCSS-SoundMate-WebPage is a Static React Frontend Landing Page with header logo, navbar, body with info, button, cards, footer and responsive screen for any device where using only TailwindCSS, Tailwind class extension JS and HTML.
 
 ## To Install Dependencies
 
