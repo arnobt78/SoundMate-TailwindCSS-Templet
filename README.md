@@ -15,11 +15,11 @@ To install all dependencies, run this command from your project folder: `npm ins
 
 Make sure you have NodeJS installed on your machine first, The installation instructions are here: https://nodejs.org/en/
 
-## To install TailwindCSS
+## To Install TailwindCSS
 
 To install TailwindCSS, please check this instruction via their official website: https://tailwindcss.com/docs/installation
 
-## To install Flowbite (TailwindCSS Framework)
+## To Install Flowbite (TailwindCSS Framework)
 
 To install TailwindCSS, please check this instruction via their official website: https://flowbite.com/docs/getting-started/quickstart/
 
